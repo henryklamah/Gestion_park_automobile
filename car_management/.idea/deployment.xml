@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="MVC_Udemy">
+    <serverData>
+      <paths name="MVC_Udemy">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="mvc_udemy" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
